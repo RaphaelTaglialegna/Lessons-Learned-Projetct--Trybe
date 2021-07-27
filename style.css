@@ -1,3 +1,12 @@
 body{
+  /*Requisito 1*/
   background-color:rgb(253, 251, 251);
+}
+#cabecalho{
+   /*Requisito 2*/
+  position: fixed;
+  top: 0;
+  height: 100px;
+  background-color: aqua;
+  
 }
